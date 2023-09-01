@@ -2,12 +2,11 @@
 <html>
 
 <head>
-  <title>From Code to Cloud: Dockerizing a Real-Time Weather Web App</title>
+    <h1>From Code to Cloud: Dockerizing a Real-Time Weather Web App</h1>
 </head>
 
 <body>
 
-  <h1>From Code to Cloud: Dockerizing a Real-Time Weather Web App</h1>
 
   <h2>Introduction</h2>
   <p>In the age of technology, real-time weather updates are a necessity. Discovering an open-source project on GitHub that promised a Real-Time Weather Web Application, I embarked on a journey to download, set up, and Dockerize it for seamless deployment.</p>
